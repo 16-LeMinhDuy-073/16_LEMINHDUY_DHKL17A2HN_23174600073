@@ -1,0 +1,12 @@
+<company> #cty
+    <director>
+        <name>Le Minh Duy</name>
+    </director>
+    <address>
+         <street>Thanh Xuân</street>
+         <city>Hà Nội</city>
+         <country>Việt Nam</country>
+    </address>
+    <contacts> #phương thức liên lạc và mã số thuế
+        <phone>+84332337379</phone>
+        <msthue>8838101833</msthue>
