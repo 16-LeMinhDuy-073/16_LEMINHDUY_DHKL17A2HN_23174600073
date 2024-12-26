@@ -1,5 +1,5 @@
 # Đọc dữ liệu từ file
-with open('D:\17A2DHKL\Lab 2\efficiency.txt', 'r') as f:
+with open('D/17A2DHKL/Lab 2/efficiency.txt', 'r') as f:
     efficiency = [float(line.strip()) for line in f]
 
 with open('D:\17A2DHKL\Lab 2\shifts.txt', 'r') as f:
